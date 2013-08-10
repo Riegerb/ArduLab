@@ -1,6 +1,6 @@
 /*
 
-Welcome to the ArdLab Family! This program,
+Welcome to the ArduLab Family! This program,
 when uploaded to the ArduLab will light up the
 four underside LEDs sequentially. This serves
 as a great first program to make sure your
